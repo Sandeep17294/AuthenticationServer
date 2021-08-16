@@ -1,0 +1,16 @@
+server:
+  port: 1111
+security:
+  oauth2:
+    client:
+      clientId: AetinsClientId
+      clientSecret: AetinsClientSecret
+      
+      
+spring:
+  security:
+    user:
+      name: aetins
+      password: PassWord$123
+      
+
